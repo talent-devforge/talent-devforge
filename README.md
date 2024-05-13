@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crypto-sirius
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Blochchain Project.
+- 💞️ I’m looking to collaborate on Blockchain Project.
 - 📫 How to reach me sirius.user.developer@gmail.com
 - 😄 Pronouns: sirius
 
