@@ -97,7 +97,7 @@
       <br>Tailwind
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
       <br>RestAPI
     </td>
     <td align="center" width="90">
