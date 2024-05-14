@@ -41,8 +41,8 @@
       <br>Laravel
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
-      <br>AWS
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48" />
+      <br>Sass
     </td>
   </tr>
   <tr>
@@ -97,12 +97,12 @@
       <br>Tailwind
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>RestAPI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="Django" />
+      <br>Django
     </td>
     <td align="center" width="90">
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
@@ -122,6 +122,46 @@
     </td>
 
   </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="Webpack" />
+      <br>Webpack
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GIT" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/storybook-icon.svg" width="48" height="48" alt="Storybook" />
+      <br>Storybook
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="48" height="48" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" width="48" height="48" alt="Gatsby" />
+      <br>Gatsby
+    </td>	
+</tr>
+    
 </table>
 <br/>
  
