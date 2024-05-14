@@ -164,18 +164,6 @@
     
 </table>
 <br/>
- 
-
-# 📊 GitHub Activities:
-<div align="center" display="flex" justify-content="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=crypto-sirius&hide_border=false&include_all_commits=false&count_private=true">
-</div>
-<div align="center" display="flex" justify-content="center">
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=crypto-sirius&hide_border=false"> 
-</div>
-<div align="center" display="flex" justify-content="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypto-sirius&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-</div>
 <!---
 crypto-sirius/crypto-sirius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
