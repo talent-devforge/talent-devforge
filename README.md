@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/bd32d7ce-418c-4102-a5c6-1ac99c59a6bb)# <div align="center">💫 Frontend | Backend | Blockchain Developer 💫 &nbsp;</div>
+<div align="center">💫 Frontend | Backend | Blockchain Developer 💫 &nbsp;</div>
 
-<br/>👋 Hi, I’m @crypto-sirius
+<br/>👋 Hi, I’m @talent-devforge
 <br/>🤝 I’m finding a Job to challenge "Real" world problems. I bring you the best solution for your idea!
 <br/>💬 Ask me about React, Next.js, Solidity, Solana, Rust, CSS, DEFI, NFT, WEB3, JS/TS, CrossChain and Life-Science related topics
 <br/>📫 How to reach me talent.business.owner@gmail.com
