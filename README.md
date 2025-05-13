@@ -1,9 +1,7 @@
-<div align="center">💫 Frontend | Backend | Blockchain Developer 💫 &nbsp;</div>
+<div align="center">💫 Experienced Full-Stack Developer with a proven track record in building scalable, highperformance platforms 💫 &nbsp;</div>
 
-<br/>👋 Hi, I’m @talent-devforge
 <br/>🤝 I’m finding a Job to challenge "Real" world problems. I bring you the best solution for your idea!
-<br/>💬 Ask me about React, Next.js, Solidity, Solana, Rust, CSS, DEFI, NFT, WEB3, JS/TS, CrossChain and Life-Science related topics
-<br/>📫 How to reach me talent.business.owner@gmail.com
+<br/>💬 Ask me about React, Next.js, WEB3, JS/TS, CrossChain and Life-Science related topics
 
 # 
 <table align="center">
